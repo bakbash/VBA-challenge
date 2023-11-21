@@ -8,8 +8,8 @@
 ### Support
 Had a tutoring session and studied accordingly. 
 ### Submission Includes
+- ReadMe File
 - Screenshot of the 2018 Results
 - Screenshot of the 2019 Results
 - Screenshot of the 2020 Results
-- The VBA code copied into a Word Document
 - The VBA code saved directly from the VBA Editor in a .txt file
