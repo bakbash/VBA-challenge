@@ -6,7 +6,7 @@
 - Color codes the Yearly Change and Percentage Change columns to see positive and negative changes.
 - Provides a summary box noting the ticker symbol and value for the stock with the greatest increase percentage change, greatest decrease percentage change and the greatest total volume for each given year.
 ### Support
-Had a tutoring session and studied accordingly. 
+Had many tutoring session, worked with friends, watched many VBA coding videos and studied accordingly. 
 ### Submission Includes
 - ReadMe File
 - Screenshot of the 2018 Results
