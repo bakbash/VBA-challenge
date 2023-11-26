@@ -84,7 +84,19 @@ Dim GreatestTotal As Double
                 
                 ElseIf (YearlyChange <= 0) Then
                 Range("J" & 2 + j).Interior.ColorIndex = 3
-                      
+                
+                End If
+                
+                'Add color coding to Percent Change
+                If (PerChange > 0) Then
+                Range("K" & 2 + j).Interior.ColorIndex = 4
+                
+                ElseIf (PerChange <= 0) Then
+                Range("K" & 2 + j).Interior.ColorIndex = 3
+                
+                End If
+               
+               
             End If
                          
            'Move on to next ticker symbol
@@ -145,4 +157,3 @@ Dim GreatestTotal As Double
     Next ws
 
 End Sub
-
